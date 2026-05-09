@@ -2,7 +2,7 @@
 
 A modern, AI-powered expense tracking web application built with Next.js 16, featuring intelligent categorization, real-time analytics, and personalized financial insights.
 
-![ExpenseTracker AI](https://img.shields.io/badge/Next.js-15.3.5-black?style=for-the-badge&logo=next.js)
+![ExpenseTracker AI](https://img.shields.io/badge/Next.js-16.2.5-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19.0.0-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css)
