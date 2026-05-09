@@ -189,6 +189,4 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 
 ---
 
-**Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)**
 
-_Demonstrating modern full-stack development with AI integration, completely free to build and deploy._
