@@ -1,6 +1,6 @@
 # 💰 ExpenseTracker AI
 
-A modern, AI-powered expense tracking web application built with Next.js 15, featuring intelligent categorization, real-time analytics, and personalized financial insights.
+A modern, AI-powered expense tracking web application built with Next.js 16, featuring intelligent categorization, real-time analytics, and personalized financial insights.
 
 ![ExpenseTracker AI](https://img.shields.io/badge/Next.js-15.3.5-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19.0.0-blue?style=for-the-badge&logo=react)
@@ -39,7 +39,7 @@ A modern, AI-powered expense tracking web application built with Next.js 15, fea
 
 ### Frontend
 
-- **[Next.js 15](https://nextjs.org)** - React framework with App Router
+- **[Next.js 16](https://nextjs.org)** - React framework with App Router
 - **[React 19](https://react.dev)** - Latest React with concurrent features
 - **[TypeScript](https://typescriptlang.org)** - Type-safe development
 - **[Tailwind CSS](https://tailwindcss.com)** - Utility-first CSS framework
@@ -186,23 +186,6 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 - **[Tailwind CSS](https://tailwindcss.com)** - Styling framework
 - **[Vercel Platform](https://vercel.com)** - Deployment platform
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 💖 Support
-
-If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
